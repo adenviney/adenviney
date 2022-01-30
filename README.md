@@ -4,7 +4,7 @@
 I am Aden, a 13 year old developer from the UK. I use languages such as, C++, Python and C# (ranked in order). You can contact me [here](mailto:aden@adenviney.com).
 
 Check out my [website](https://www.adenviney.com) and [YouTube](https://www.youtube.com/channel/UCBL2GVjzdNFII5WwzRNacOw) <br>
-You can also add me on Discord here: `discord user#6969` <br>
+You can also add me on Discord here: `av#4321` <br>
 
 ###### Languages
 
